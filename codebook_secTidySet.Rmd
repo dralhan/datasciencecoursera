@@ -1,3 +1,6 @@
+Please note the codebook was generated auto-using DataMaid package - used it first time - see a lot of information. At some point I would like to go back and explore the package to tune the output to only desired elements. 
+
+
 ---
 dataMaid: yes
 title: Codebook for secTidySet
